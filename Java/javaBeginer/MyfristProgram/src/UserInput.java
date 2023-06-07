@@ -14,6 +14,7 @@ public class UserInput {
 		System.out.println("Age = " + age);
 		System.out.println("My name is =\t" + name);
 		System.out.println("Food = "+food);
+		sc.close();
 	}
 
 }
